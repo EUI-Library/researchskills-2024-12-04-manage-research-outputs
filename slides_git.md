@@ -127,7 +127,7 @@ OneDrive may very well be enough for you, but...
 ### Brief excursus on file naming conventions
 - __Vocabulary__: choose a standard vocabulary for file names so that everyone uses and common language.
 
-- __Punctuation__: decide on conventions for symbols, capitals, hyphens and spaces.
+- __Punctuation__: decide on conventions for symbols, capitals, hyphens, etc.
 
 - __Dates__:  agree on a logical use e.g., YYYYMMDD.
 
