@@ -11,7 +11,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 body {
   background: #fff;
   background-color: #fff;
-  background-image: url(../../img/EUI-logo-acronym.svg);
+  background-image: url(img/EUI-logo-acronym.svg);
   background-repeat: no-repeat;
   background-size: 10%;
 }
